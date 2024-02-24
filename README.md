@@ -18,3 +18,4 @@ Overall, GSocBMS provides a more efficient process for dealing with our day-to-d
 problems on campus and makes the process of dealing with such grievances much
 simpler.
 
+![image](https://github.com/Tps08/GSoc-BMS/assets/143953583/49d3118e-0bc0-45a5-a3ea-a1881dda53a7)
